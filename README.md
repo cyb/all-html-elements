@@ -1,6 +1,6 @@
 # All HTML Elements
 
-✨ View in your browser at [ADD LINK].
+✨ View in your browser at [https://cyb.github.io/all-html-elements/](https://cyb.github.io/all-html-elements/).
 
 A simple list of all visible and style-able HTML elements. The list itself does not style any of these elements, so it's perfect for testing CSS frameworks, browser compatibility, and more.
 
