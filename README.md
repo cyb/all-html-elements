@@ -1,6 +1,6 @@
 # All HTML Elements
 
-✨ View in your browser at [https://cyb.github.io/all-html-elements/](https://cyb.github.io/all-html-elements/).
+✨ View in your browser at [https://cyb.github.io/all-html-elements/src/index.html](https://cyb.github.io/all-html-elements/src/index.html).
 
 A simple list of all visible and style-able HTML elements. The list itself does not style any of these elements, so it's perfect for testing CSS frameworks, browser compatibility, and more.
 
@@ -16,7 +16,7 @@ In your terminal of choice, run:
 ```shell
 git clone https://github.com/cyb/all-html-elements.git
 ```
-This will create a folder titled `all-html-elements`. Just open the included `index.html` file with your browser. Probably the simplest install across all of Github.
+This will create a folder titled `all-html-elements`. Just open the folder, open `src`, then the included `index.html` file with your browser. Probably the simplest install across all of Github.
 
 <br>
 
